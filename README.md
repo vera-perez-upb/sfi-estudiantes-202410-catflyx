@@ -1,5 +1,5 @@
 ## Nombre del equipo
--inserte-
+Menos -1
 
 ## Integrantes
 - Simara Villasmil - 000509719
@@ -10,6 +10,9 @@ El led en vez de apagar y prenderse bastante rápido, tenía pausas más alargad
 
 ### Enlace del repositorio del ejercicio 4
 https://github.com/catflyx/ejercicio4_SFI
+
+### Enlace del repositorio en el que estamos trabajando
+https://github.com/isaacrisi/SISTEMAS-FISICOS-INTERACTIVOS
 
 # Documentación | Ejercicio 5
 El núcleo Arduino-Pico es un conjunto de herramientas y bibliotecas desarrollado por la comunidad para programar la placa Raspberry Pi Pico (RP2040) utilizando el entorno de Arduino. Está diseñado para hacer más fácil y divertido el uso de estas placas, integrándolas en el ecosistema de Arduino.
